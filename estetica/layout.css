@@ -1,0 +1,20 @@
+
+:root {
+	--primary-color: #ccc;
+	--link-color: #7777ff;
+	--text-color: #333333;
+	--border-color: var(--text-color);
+}
+
+body {
+	font-family: arial, helvetica, sans-serfi;
+	color: var(--text-color);
+	font-size: 10.50px;
+	padding: 10px 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: inherit;
+}
+
